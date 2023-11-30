@@ -103,5 +103,4 @@ document.querySelector('.random-btn').addEventListener('click',()=>{
     } else{
         text.textContent = randomQuote;
     }
->>>>>>> 45f92546aaaaf1a5b9f86d2f96e5dbb9d7be96ae
 })
